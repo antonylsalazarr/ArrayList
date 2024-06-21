@@ -18,3 +18,6 @@ Implementa la pulsación de los botones:
 - Consultar : busca un código y si existe edita los datos del alumno.
 - Modificar : busca un código y si existe modifica los datos de un alumno.
 - Eliminar : busca un código y si existe retira al alumno del arreglo.
+
+Formulario:
+![image](https://github.com/antonylsalazarr/ArrayList/assets/149880665/7c200d8a-7ad8-4d02-9da5-68ad2b985377)
