@@ -58,6 +58,19 @@ public class ArregloAlumnos {
     public void eliminar(Alumno x) {
         alu.remove(x);
     }
+    
+    // Metodo Modificar
+    public void modificar(int pos, Alumno x) {
+        alu.set(pos, x);
+    }
+    
+    // devuelve el indice de una colecciopn
+    public int buscarPosicion(int cod) {
+        for (int i=0; i<tamaño(); i++) 
+            if (obtener(i).getCodigo() == cod) 
+                return i; 
+        return-1; 
+    }
 
 }
 
