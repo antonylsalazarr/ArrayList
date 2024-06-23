@@ -20,4 +20,10 @@ Implementa la pulsación de los botones:
 - Eliminar : busca un código y si existe retira al alumno del arreglo.
 
 Formulario:
+
 ![image](https://github.com/antonylsalazarr/ArrayList/assets/149880665/7c200d8a-7ad8-4d02-9da5-68ad2b985377)
+
+Luego de modificarse:
+
+![image](https://github.com/antonylsalazarr/ArrayList/assets/149880665/d7f2cc9a-7363-4186-89a9-419c3d1f8235)
+
